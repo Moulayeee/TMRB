@@ -4,7 +4,7 @@ Made by: Lorenzik
 
 ## Installation
 ```
-  git clone https://github.com/Lorenzik/TikTok-Mass-Report-Bot
+  git clone https://https://www.tiktok.com/@zeini334?is_from_webapp=1&sender_device=pc/Lorenzik/TikTok-Mass-Report-Bot
   cd TMRB
   npm i
   node .
